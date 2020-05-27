@@ -1,0 +1,2 @@
+# basicgo
+Introduction to Go
